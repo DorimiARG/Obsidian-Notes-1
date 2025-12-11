@@ -1,0 +1,4 @@
+- 1/2 classes per week indefinitely.
+- Write down notes on either [[Vacation Plans 2025 idk/Use YellowBrick Classes/Notes from Classes|Notes from Classes]] or on paper.
+- Practice for a week with subjects I really like.
+- REST
