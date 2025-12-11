@@ -1,0 +1,1 @@
+Messy. Mostly about the Kagamine Twins and the Chronicles of Evil by mothy. Something about them switching places at a boarding school. Banger songs too.
