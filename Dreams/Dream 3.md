@@ -1,0 +1,1 @@
+I got super mad at mom bc she was transphobic. But violently mad, unreasonably mad. I was punching and kicking and screamind at her. Don't remember much else. Not the first time this type of dream happened. Ask Doc.
