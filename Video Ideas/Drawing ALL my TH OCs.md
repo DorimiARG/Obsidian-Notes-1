@@ -1,0 +1,5 @@
+- Alphabetical order.
+- Shorts, then compiled into longer format.
+- Story of the OC? At least personality traits.
+- Thought process for the piece.
+- Final result + for sale/not for sale (mayhaps?)
