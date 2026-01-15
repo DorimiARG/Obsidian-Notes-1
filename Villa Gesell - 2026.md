@@ -1,0 +1,7 @@
+Sábado - Domingo: Paseamos y nos quedamos en la ciudad.
+19/Lunes - Tarde: Recorrido por el Pinar del Norte - Acuarelas 10 AM (Centro cultural Chalet de Don Carlos) - Banda tributo a Soda Stereo (21hs Teatro San Martin)
+20/Martes: Mar de las pampas/Mar Azul (Taller de ceramica 18hs Casa de la Cultura Mercedes Sosa)  (Cine indie Centro cultura Pipach 19hs)
+21/Miércoles - Tarde: Cabalgata.
+22/Jueves - Mar del plata (Paseamos y vemos que hacemos)
+23/Viernes: Libre. (Bresh - Facu y Rami)
+25/Sabado: 10 AM nos vamos.
