@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "73e44ccd-4e41-4501-b7a7-e5ba0e7edc0b",
+    "dateTime": "2026-06-19T00:00:48-03:00",
+    "moodRating": 3,
+    "emotions": [
+      "fine",
+      "excited",
+      "fearful",
+      "insecure",
+      "anxious",
+      "worried"
+    ],
+    "note": ""
+  }
+]
