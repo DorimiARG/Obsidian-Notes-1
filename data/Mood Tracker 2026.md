@@ -1,3 +1,9 @@
 
 - 😐 Disforic, looking at videos about being realy trans or if I'm just confused
 - 😐 Talked with Cande and Rescala about gender and all that. Maybe I'm not trans. I feel so tired.
+- 🙂 Idk man, like I'd like to be trans but I'm not convinced. I don't feel that insecure and I'm kinda contemp with my body. Maybe I could get tape and tape my chest for a bit? Considering surgery and exercise. Still confused
+- 🙂 Watched Project Hail Mary, life good
+- 🙂 Idk man just had a chill day. Ate more than I wanted to tho
+- 🙂 Chill again, working, watching streams, not much
+- 🙂 Same as the other day, work and streams and DELTARUNE
+- 😊 Hanged out with friends, life good. Whole day not at home.
