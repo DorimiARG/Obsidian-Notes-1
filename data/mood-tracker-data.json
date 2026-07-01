@@ -104,5 +104,20 @@
       "cheerful"
     ],
     "note": "Hanged out with friends, life goid. Whole day not at home."
+  },
+  {
+    "id": "a279b0f4-9535-4388-868f-aec32f81fec3",
+    "dateTime": "2026-06-30T22:43:52-03:00",
+    "moodRating": 3,
+    "emotions": [
+      "ok",
+      "bored",
+      "sorrowful",
+      "disappointed",
+      "neglected",
+      "isolated",
+      "anxious"
+    ],
+    "note": "Back pain owwie owwie owwwww. Kinda not feeling good. I'm too shy. I need to lock in on work."
   }
 ]

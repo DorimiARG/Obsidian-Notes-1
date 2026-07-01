@@ -7,3 +7,4 @@
 - 🙂 Chill again, working, watching streams, not much
 - 🙂 Same as the other day, work and streams and DELTARUNE
 - 😊 Hanged out with friends, life good. Whole day not at home.
+- 😐 Back pain owwie owwie owwwww. Kinda not feeling good. I'm too shy. I need to lock in on work.
