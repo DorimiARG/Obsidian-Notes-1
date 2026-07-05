@@ -119,5 +119,51 @@
       "anxious"
     ],
     "note": "Back pain owwie owwie owwwww. Kinda not feeling good. I'm too shy. I need to lock in on work."
+  },
+  {
+    "id": "22774191-a917-4cf6-b54a-df71ae0245c8",
+    "dateTime": "2026-07-02T22:46:02-03:00",
+    "moodRating": 3,
+    "emotions": [
+      "fine",
+      "bored",
+      "satisfied",
+      "pleased",
+      "contemptful"
+    ],
+    "note": "Ouchhhhh back hurt. Also meh day, just worked in one comm"
+  },
+  {
+    "id": "193c0e0d-952f-4efe-9d8a-c242d9c3e0c8",
+    "dateTime": "2026-07-03T21:35:57-03:00",
+    "moodRating": 3,
+    "emotions": [
+      "content",
+      "satisfied",
+      "stressed",
+      "contemptful",
+      "agonizing",
+      "nervous",
+      "powerless"
+    ],
+    "note": "Soooo i gotta do the comic stil,but nothing comes out. Back pain increasing, ran out of meds today. Also uhhhh did 2 drawings? Pretty bad ones I was very tired. Peruod is coming."
+  },
+  {
+    "id": "f7f24e4a-146b-4026-97e5-fc8a50642b8d",
+    "dateTime": "2026-07-04T20:59:41-03:00",
+    "moodRating": 2,
+    "emotions": [
+      "content",
+      "sentimental",
+      "contemptful",
+      "stressed",
+      "frightened",
+      "helpless",
+      "powerless",
+      "fearful",
+      "worried",
+      "anxious"
+    ],
+    "note": "Feeling dysphoric today, maybe it's bc period is soon and lack of meds. Did 1 drawing and it exhausted me, maybe im burnt-out. "
   }
 ]

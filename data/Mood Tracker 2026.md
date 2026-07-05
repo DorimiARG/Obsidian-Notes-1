@@ -8,3 +8,6 @@
 - 🙂 Same as the other day, work and streams and DELTARUNE
 - 😊 Hanged out with friends, life good. Whole day not at home.
 - 😐 Back pain owwie owwie owwwww. Kinda not feeling good. I'm too shy. I need to lock in on work.
+- 😐 Ouchhhhh back hurt. Also meh day, just worked in one comm
+- 😐 Soooo i gotta do the comic stil,but nothing comes out. Back pain increasing, ran out of meds today. Also uhhhh did 2 drawings? Pretty bad ones I was very tired. Peruod is coming.
+- ☹️ Feeling dysphoric today, maybe it's bc period is soon and lack of meds. Did 1 drawing and it exhausted me, maybe im burnt-out. 
