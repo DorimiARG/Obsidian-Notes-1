@@ -11,3 +11,7 @@
 - 😐 Ouchhhhh back hurt. Also meh day, just worked in one comm
 - 😐 Soooo i gotta do the comic stil,but nothing comes out. Back pain increasing, ran out of meds today. Also uhhhh did 2 drawings? Pretty bad ones I was very tired. Peruod is coming.
 - ☹️ Feeling dysphoric today, maybe it's bc period is soon and lack of meds. Did 1 drawing and it exhausted me, maybe im burnt-out. 
+- 🙂 I had a fun day. Just feeling exhausted and sad. Like i want to cry.
+- 🙂 Idk i feel very weird. Like extremely lonely. But i don't want a relationship. I don't have the guts to try anything new.
+- ☹️ Suicidal at night. Dreamed that Alvaro and I kinda tried again?? But I blew it. Weird dream over-all. 
+- 😨 Crashout and cuts. Talked with Rescala.

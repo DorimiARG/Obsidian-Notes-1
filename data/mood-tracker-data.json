@@ -165,5 +165,68 @@
       "anxious"
     ],
     "note": "Feeling dysphoric today, maybe it's bc period is soon and lack of meds. Did 1 drawing and it exhausted me, maybe im burnt-out. "
+  },
+  {
+    "id": "6a75a0a1-dead-473f-90d8-95910e0b68ec",
+    "dateTime": "2026-07-09T23:13:55-03:00",
+    "moodRating": 4,
+    "emotions": [
+      "content",
+      "pleased",
+      "happy",
+      "fine",
+      "stressed"
+    ],
+    "note": "I had a fun day. Just feeling exhausted and sad. Like i want to cry."
+  },
+  {
+    "id": "b45df849-a476-4a3f-9860-f521fe948791",
+    "dateTime": "2026-07-12T22:44:03-03:00",
+    "moodRating": 4,
+    "emotions": [
+      "content",
+      "satisfied",
+      "stressed",
+      "insecure",
+      "anxious",
+      "worried"
+    ],
+    "note": "Idk i feel very weird. Like extremely lonely. But i don't want a relationship. I don't have the guts to try anything new."
+  },
+  {
+    "id": "5cb44d2b-7952-4821-8550-4d515d10e3a6",
+    "dateTime": "2026-07-14T09:01:18-03:00",
+    "moodRating": 2,
+    "emotions": [
+      "sad",
+      "hurt",
+      "depressed",
+      "sorrowful",
+      "disappointed",
+      "lonely",
+      "isolated",
+      "grieving"
+    ],
+    "note": "Suicidal at night. Dreamed that Alvaro and I kinda tried again?? But I blew it. Weird dream over-all. "
+  },
+  {
+    "id": "ad3aa645-ac3d-4271-a8c3-472caf8d95aa",
+    "dateTime": "2026-07-18T23:05:14-03:00",
+    "moodRating": 1,
+    "emotions": [
+      "sad",
+      "hurt",
+      "depressed",
+      "disappointed",
+      "neglected",
+      "isolated",
+      "lonely",
+      "despaired",
+      "powerless",
+      "insecure",
+      "inferior",
+      "inadequate"
+    ],
+    "note": "Crashout and cuts. Talked with Rescala."
   }
 ]
