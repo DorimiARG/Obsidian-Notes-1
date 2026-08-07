@@ -15,3 +15,4 @@
 - 🙂 Idk i feel very weird. Like extremely lonely. But i don't want a relationship. I don't have the guts to try anything new.
 - ☹️ Suicidal at night. Dreamed that Alvaro and I kinda tried again?? But I blew it. Weird dream over-all. 
 - 😨 Crashout and cuts. Talked with Rescala.
+- 🙂 Dysphoria check: uhhh still there. Kinda. Not as intense. Mood check: uh fine, stressed.
