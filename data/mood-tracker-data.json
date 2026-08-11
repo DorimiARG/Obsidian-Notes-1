@@ -240,5 +240,19 @@
       "fine"
     ],
     "note": "Dysphoria check: uhhh still there. Kinda. Not as intense. Mood check: uh fine, stressed."
+  },
+  {
+    "id": "7e8ef31b-c351-4be8-bc1b-d795e45440f1",
+    "dateTime": "2026-08-11T20:41:22-03:00",
+    "moodRating": 3,
+    "emotions": [
+      "content",
+      "fine",
+      "bored",
+      "sad",
+      "depressed",
+      "sorrowful"
+    ],
+    "note": "Dysphoria check: a little. Can't wait to move out and discover myself. Back pain: slight, gotta check RPG. Depressed day, accidentally skipped meds last night"
   }
 ]

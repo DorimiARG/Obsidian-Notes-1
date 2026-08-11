@@ -16,3 +16,4 @@
 - ☹️ Suicidal at night. Dreamed that Alvaro and I kinda tried again?? But I blew it. Weird dream over-all. 
 - 😨 Crashout and cuts. Talked with Rescala.
 - 🙂 Dysphoria check: uhhh still there. Kinda. Not as intense. Mood check: uh fine, stressed.
+- 😐 Dysphoria check: a little. Can't wait to move out and discover myself. Back pain: slight, gotta check RPG. Depressed day, accidentally skipped meds last night
