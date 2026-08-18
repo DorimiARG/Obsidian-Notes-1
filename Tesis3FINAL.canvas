@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"2299d2520d486d05","type":"text","text":"https://www.portalguarani.com/590_dionisio_gonzalez_torres__/1061_cultura_guarani__obra_de_dionisio_gonzalez_torres__ano_2007.html\n\nhttps://pueblosindigenas.es/de-argentina/guaranies-ubicacion-vestimenta-vivienda-alimentacion-y-lengua/\n\nhttps://pib.socioambiental.org/en/Povo%3AGuarani_%C3%91andeva\n\nhttps://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html\n\nhttps://es.wikipedia.org/wiki/Pombero\n\n\n","x":0,"y":-340,"width":540,"height":320},
-		{"id":"d4cf41fb0d16c53d","type":"text","text":"Motivos Pomberito\n- Quiere extinguir el sol.\n- ~~Venganza contra la forestal~~\n- Drugs/vicios\n- ","x":-400,"y":-340,"width":360,"height":200},
-		{"id":"47dde5e4b8c77396","type":"text","text":"Inspo:\n- ~~Antonio Berni (reciclado de objetos comunes?)~~\n- Arte 1945\n- Señor de la noche - definición Paraguay/guaraní\n- ","x":-400,"y":-100,"width":360,"height":340}
+		{"id":"2299d2520d486d05","type":"text","text":"https://www.portalguarani.com/590_dionisio_gonzalez_torres__/1061_cultura_guarani__obra_de_dionisio_gonzalez_torres__ano_2007.html\n\nhttps://pueblosindigenas.es/de-argentina/guaranies-ubicacion-vestimenta-vivienda-alimentacion-y-lengua/\n\nhttps://pib.socioambiental.org/en/Povo%3AGuarani_%C3%91andeva\n\nhttps://pueblosoriginarios.com/sur/bosque_atlantico/guarani/cultura.html\n\nhttps://es.wikipedia.org/wiki/Pombero\n\nhttps://es.wikipedia.org/wiki/Guaran%C3%ADes\n\nhttps://es.wikipedia.org/wiki/Mby%C3%A1s\n\n\n","x":0,"y":-340,"width":540,"height":580},
+		{"id":"d4cf41fb0d16c53d","type":"text","text":"Motivos Pomberito\n- Quiere extinguir el sol.\n- ==Venganza contra la forestal==\n- Drugs/vicios\n- ","x":-400,"y":-340,"width":360,"height":200},
+		{"id":"47dde5e4b8c77396","type":"text","text":"Inspo:\n- ~~Antonio Berni (reciclado de objetos comunes?)~~\n- Arte 1945\n- ~~Señor de la noche - definición Paraguay/guaraní~~\n- Cultura guaraní\n- Paraguay","x":-400,"y":-100,"width":360,"height":340},
+		{"id":"515a99599c9bf3b5","x":-40,"y":-480,"width":160,"height":100,"type":"text","text":"Nombre:\n**Chopombe**\n"}
 	],
 	"edges":[]
 }
