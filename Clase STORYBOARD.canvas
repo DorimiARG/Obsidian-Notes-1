@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"f729bcd34580cd4a","type":"text","text":"Preproducción","x":-80,"y":-280,"width":180,"height":60},
+		{"id":"999133de727e0dfc","type":"text","text":"- director\n- asist. de producción.","x":-400,"y":-220,"width":200,"height":120},
+		{"id":"80bedffe54adae1a","type":"text","text":"Pedir/recibir:\n- guión!!!!! (g. literario) (1pág:1min/30cuadros)\n- personajes (princip/secund/extra)\n- fondos/escenarios\n- props (todos)\n- REFERENCIAS!!!\n- Concept Art\n- Audios!! (musica/dialogos/efectos esp.)","x":-180,"y":-180,"width":440,"height":380},
+		{"id":"918267996ddd9e8d","type":"text","text":"Audio + tiempo","x":270,"y":-180,"width":200,"height":50},
+		{"id":"c7291ab9980a0277","type":"text","text":"**Animatic ≠ Layout ≠ Storyboard**","x":438,"y":-280,"width":340,"height":60},
+		{"id":"52093ed625666640","x":740,"y":-180,"width":160,"height":120,"type":"text","text":"Rough story\ncontabilizar cuadros"},
+		{"id":"83866801b4bf1a15","x":520,"y":-180,"width":180,"height":380,"type":"text","text":"Polished cuadro de storyboard con decisiones de cámara y pose.\nCuando muchos personajes interactuando con environment."},
+		{"id":"3161593be8492350","x":-180,"y":260,"width":220,"height":60,"type":"text","text":"Encuadre ≠ Plano"},
+		{"id":"f5e171d0cc07e401","x":-25,"y":370,"width":250,"height":110,"type":"text","text":"Lo mismo pero hay personajes (relac personaje/cámara)"},
+		{"id":"838889334aab4ec1","x":-360,"y":370,"width":250,"height":70,"type":"text","text":"Selección de environment a retratar"},
+		{"id":"63634ee60d42defd","x":-25,"y":520,"width":250,"height":140,"type":"text","text":"En publicidad: el producto/obj es el personaje (si no hay persona real)"},
+		{"id":"84b3468d9d46fcd7","x":245,"y":270,"width":275,"height":50,"type":"text","text":"Tamaño - Ángulo - Altura"}
+	],
+	"edges":[
+		{"id":"708125b45b50f894","fromNode":"f729bcd34580cd4a","fromSide":"left","toNode":"999133de727e0dfc","toSide":"top"},
+		{"id":"78ea6608016865e9","fromNode":"999133de727e0dfc","fromSide":"bottom","toNode":"80bedffe54adae1a","toSide":"left"},
+		{"id":"8262b478f1b08f2b","fromNode":"c7291ab9980a0277","fromSide":"left","toNode":"918267996ddd9e8d","toSide":"top"},
+		{"id":"af1ab25dcc4d85ad","fromNode":"c7291ab9980a0277","fromSide":"bottom","toNode":"83866801b4bf1a15","toSide":"top"},
+		{"id":"c8ef2debc56cf270","fromNode":"c7291ab9980a0277","fromSide":"right","toNode":"52093ed625666640","toSide":"top"},
+		{"id":"379f7be18abb3ccc","fromNode":"3161593be8492350","fromSide":"left","toNode":"838889334aab4ec1","toSide":"top"},
+		{"id":"9706d908e7f31ea6","fromNode":"3161593be8492350","fromSide":"right","toNode":"f5e171d0cc07e401","toSide":"top"},
+		{"id":"edca6882bd3762db","fromNode":"f5e171d0cc07e401","fromSide":"bottom","toNode":"63634ee60d42defd","toSide":"top"},
+		{"id":"18f2409a17c3669d","fromNode":"3161593be8492350","fromSide":"right","toNode":"84b3468d9d46fcd7","toSide":"left"}
+	]
+}
