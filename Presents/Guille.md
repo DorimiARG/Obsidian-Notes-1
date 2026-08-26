@@ -1,0 +1,1 @@
+- Pendrive grande / disco de memoria
