@@ -261,5 +261,25 @@
     "moodRating": 3,
     "emotions": [],
     "note": "Suicide attempt log"
+  },
+  {
+    "id": "b5b90707-69b2-449b-a438-15529027120e",
+    "dateTime": "2026-09-02T21:59:58-03:00",
+    "moodRating": 2,
+    "emotions": [
+      "stressed",
+      "hateful",
+      "hostile",
+      "frustrated",
+      "sad",
+      "hurt",
+      "depressed",
+      "sorrowful",
+      "shameful",
+      "regretful",
+      "isolated",
+      "lonely"
+    ],
+    "note": "I fucked up big time. Joa is scared of me, Cande hates me, some of my friends don't even know. I may not be able to live with Cande after all. I should have died."
   }
 ]

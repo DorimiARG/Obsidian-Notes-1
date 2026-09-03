@@ -18,3 +18,4 @@
 - 🙂 Dysphoria check: uhhh still there. Kinda. Not as intense. Mood check: uh fine, stressed.
 - 😐 Dysphoria check: a little. Can't wait to move out and discover myself. Back pain: slight, gotta check RPG. Depressed day, accidentally skipped meds last night
 - 😐 Suicide attempt log
+- ☹️ I fucked up big time. Joa is scared of me, Cande hates me, some of my friends don't even know. I may not be able to live with Cande after all. I should have died.
