@@ -3,3 +3,4 @@
 - Story of the OC? At least personality traits.
 - Thought process for the piece.
 - Final result + for sale/not for sale (mayhaps?)
+- https://docs.google.com/document/d/1ydptF_6AD_oVCxhXe2jsbt8yAmCBHwQAmoyJsLj4RtY/edit?usp=sharing
